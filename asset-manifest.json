@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Fiszki-online/static/css/main.dfbd1880.chunk.css",
-    "main.js": "/Fiszki-online/static/js/main.c3cdda4e.chunk.js",
-    "main.js.map": "/Fiszki-online/static/js/main.c3cdda4e.chunk.js.map",
+    "main.js": "/Fiszki-online/static/js/main.89b922f2.chunk.js",
+    "main.js.map": "/Fiszki-online/static/js/main.89b922f2.chunk.js.map",
     "runtime-main.js": "/Fiszki-online/static/js/runtime-main.04860b17.js",
     "runtime-main.js.map": "/Fiszki-online/static/js/runtime-main.04860b17.js.map",
     "static/js/2.9c8f7cea.chunk.js": "/Fiszki-online/static/js/2.9c8f7cea.chunk.js",
     "static/js/2.9c8f7cea.chunk.js.map": "/Fiszki-online/static/js/2.9c8f7cea.chunk.js.map",
     "index.html": "/Fiszki-online/index.html",
-    "precache-manifest.b493d5010e38167ca91c7523afdb1435.js": "/Fiszki-online/precache-manifest.b493d5010e38167ca91c7523afdb1435.js",
+    "precache-manifest.58599f3ecac22537cf807ffa2f8f9965.js": "/Fiszki-online/precache-manifest.58599f3ecac22537cf807ffa2f8f9965.js",
     "service-worker.js": "/Fiszki-online/service-worker.js",
     "static/css/main.dfbd1880.chunk.css.map": "/Fiszki-online/static/css/main.dfbd1880.chunk.css.map",
     "static/js/2.9c8f7cea.chunk.js.LICENSE": "/Fiszki-online/static/js/2.9c8f7cea.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.04860b17.js",
     "static/js/2.9c8f7cea.chunk.js",
     "static/css/main.dfbd1880.chunk.css",
-    "static/js/main.c3cdda4e.chunk.js"
+    "static/js/main.89b922f2.chunk.js"
   ]
 }
