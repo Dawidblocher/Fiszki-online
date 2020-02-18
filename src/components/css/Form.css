@@ -1,0 +1,100 @@
+label {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    text-align: left;
+    font-size: 13px;
+    max-width: 400px;
+}
+
+input {
+    padding: 10px 5px;
+    background: none;
+    border: 1px solid #A4A2A2;
+    border-radius: 5px;
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 400px;
+}
+
+.addFicheForm {
+    width: 305px;
+    height: 200px;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+    margin: 5px auto;
+    margin-bottom: 10px;
+}
+
+.input-wrap {
+    margin: 10px 0;
+}
+
+.addFicheBtn {
+    width: 127px;
+    height: 37px;
+    background: #FD3E4A;
+    border-radius: 5px;
+    margin: 0 auto;
+    border: 0;
+    color: #fff;
+}
+
+.addedFiche {
+    margin-bottom: 80px;
+
+}
+
+#input-create {
+    position: fixed;
+    bottom: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    border-radius: 0;
+    border: 0;
+    color: #fff;
+    background: #4D19Bc;
+}
+
+form {
+    margin: 30px 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    text-align: left;
+    display: flex;
+    padding: 10px;
+}
+
+ul li:nth-child(2n) {
+    background: #EEEEEE;
+}
+
+ul li span {
+    width: 20px;
+}
+
+ul li p {
+    margin: 0;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.answer-input {
+    width: 90%;
+    display: block;
+    color: transparent;
+    position: absolute;
+    border: 0;
+    z-index: 9999;
+    outline: none;
+    margin: 0 auto;
+    cursor: none;
+}

@@ -1,0 +1,28 @@
+.answer {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    letter-spacing: 11px;
+    text-align: center;
+    font-size: 22px;
+    overflow: hidden;
+    word-wrap: break-word;
+    margin-bottom: 30px;
+}
+
+.underline {
+    display: inline-block;
+    width: 20px;
+    height: 3px;
+    background: #000;
+    margin-right: 7px;
+}
+
+.answerDesk-wrap {
+    position: absolute;
+    top: 10px;
+}
+
+.game-panel {
+    margin-bottom: 100px;
+}

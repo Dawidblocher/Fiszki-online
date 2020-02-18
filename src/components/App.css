@@ -1,0 +1,191 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+.entrySite h1 {
+  font-size: 36px;
+  margin: 80px 0 30px 0;
+  padding: 0 25px;
+}
+
+.entrySite {
+  overflow: hidden;
+}
+
+.entrySite p {
+  font-size: 18px;
+  padding: 0 25px;
+  color: #757575;
+  font-weight: bold;
+}
+
+.redBtn {
+  padding: 15px 25px;
+  background: #FD3E4A;
+  border-radius: 5px;
+  margin: 0 auto;
+  border: 0;
+  color: #fff;
+  display: inline-block;
+  width: 175px;
+  margin-top: 40px;
+  text-decoration: none;
+}
+
+.home-page a {
+  margin-bottom: 80px;
+
+}
+
+.link-wrap {
+  position: relative;
+}
+
+.delete-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  width: 38px;
+  height: 38px;
+  display: block;
+  margin: 5px;
+  position: absolute;
+  color: red;
+  right: 0;
+  bottom: 0;
+  z-index: 99;
+}
+
+button {
+  background: #4D19BC;
+  border: none;
+  padding: 10px 35px;
+  color: #fff;
+  outline: none;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.game-info {
+  max-width: 500px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  background: #FD3E4A;
+  color: #fff;
+  padding: 10px;
+}
+
+.game-info p {
+  margin: 0;
+  width: 33%;
+}
+
+.game-info p span {
+  display: block;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.home-page .add-fiche-btn {
+  font-size: 45px;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  color: #4D19BC;
+  margin-bottom: 0;
+}
+
+.wrap-package {
+  background: #4D19BC;
+}
+
+.home-page {
+  margin-top: 40px;
+}
+
+.wrap-package a {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}
+
+.add-fiche-btn p {
+  margin: 0;
+}
+
+.addFicheSite {
+  margin-top: 30px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.box-link {
+  width: 380px;
+  position: relative;
+}
+
+img {
+  width: 100%;
+}
+
+.box-link p {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.wrap-package {
+  display: flex;
+  justify-content: center;
+}

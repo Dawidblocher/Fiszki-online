@@ -1,0 +1,313 @@
+{
+	"boxs": [{
+			"name": "W mieszkaniu",
+			"standard": true,
+			"transl": [{
+					"id": 0,
+					"eng": "alarm clock",
+					"pl": "budzik"
+				},
+				{
+					"id": 1,
+					"eng": "armchair",
+					"pl": "fotel"
+				},
+				{
+					"id": 2,
+					"eng": "bed",
+					"pl": "łóżko"
+				},
+				{
+					"id": 3,
+					"eng": "bunk beds",
+					"pl": "łóżko piętrowe"
+				},
+				{
+					"id": 4,
+					"eng": "carpet",
+					"pl": "dywan"
+				},
+				{
+					"id": 5,
+					"eng": "chair",
+					"pl": "krzesło"
+				},
+				{
+					"id": 6,
+					"eng": "container",
+					"pl": "pojemnik"
+				},
+				{
+					"id": 7,
+					"eng": "cup",
+					"pl": "filiżanka"
+				},
+				{
+					"id": 8,
+					"eng": "curtain",
+					"pl": "zasłona"
+				},
+				{
+					"id": 9,
+					"eng": "cutlery",
+					"pl": "sztućce"
+				},
+				{
+					"id": 10,
+					"eng": "dishwasher",
+					"pl": "zmywarka"
+				},
+				{
+					"id": 11,
+					"eng": "drawer",
+					"pl": "szuflada"
+				},
+				{
+					"id": 12,
+					"eng": "floor",
+					"pl": "podłoga"
+				},
+				{
+					"id": 13,
+					"eng": "fork",
+					"pl": "widelec"
+				},
+				{
+					"id": 14,
+					"eng": "freezer",
+					"pl": "zamrażarka"
+				},
+				{
+					"id": 15,
+					"eng": "fridge",
+					"pl": "lodówka"
+				},
+				{
+					"id": 16,
+					"eng": "furniture",
+					"pl": "meble"
+				},
+				{
+					"id": 17,
+					"eng": "glass",
+					"pl": "szklanka"
+				},
+				{
+					"id": 18,
+					"eng": "heater",
+					"pl": "grzejnik"
+				},
+				{
+					"id": 19,
+					"eng": "knife",
+					"pl": "nóż"
+				}
+			]
+		},
+		{
+			"name": "Rodzina",
+			"standard": true,
+			"transl": [{
+					"id": 0,
+					"eng": "adoption",
+					"pl": "adopcja"
+				},
+				{
+					"id": 1,
+					"eng": "ancestor",
+					"pl": "przodek"
+				},
+				{
+					"id": 2,
+					"eng": "aunt",
+					"pl": "ciotka"
+				},
+				{
+					"id": 3,
+					"eng": "brother",
+					"pl": "brat"
+				},
+				{
+					"id": 4,
+					"eng": "brother-in-law",
+					"pl": "szwagier"
+				},
+				{
+					"id": 5,
+					"eng": "child",
+					"pl": "dziecko"
+				},
+				{
+					"id": 6,
+					"eng": "cousin",
+					"pl": "kuzyn"
+				},
+				{
+					"id": 7,
+					"eng": "daughter",
+					"pl": "córka"
+				},
+				{
+					"id": 8,
+					"eng": "daughter-in-law",
+					"pl": "synowa"
+				},
+				{
+					"id": 9,
+					"eng": "descendant",
+					"pl": "potomek"
+				}, {
+					"id": 10,
+					"eng": "divorce",
+					"pl": "rozwód"
+				},
+				{
+					"id": 11,
+					"eng": "elder sister",
+					"pl": "starsza siostra"
+				},
+				{
+					"id": 12,
+					"eng": "extended family",
+					"pl": "dalsza rodzina"
+				},
+				{
+					"id": 13,
+					"eng": "family life",
+					"pl": "życie rodzinne"
+				},
+				{
+					"id": 14,
+					"eng": "family reunion",
+					"pl": "spotkanie rodzinne"
+				},
+				{
+					"id": 15,
+					"eng": "father-in-law",
+					"pl": "teść"
+				},
+				{
+					"id": 16,
+					"eng": "foster-child",
+					"pl": "przybrane dziecko"
+				},
+				{
+					"id": 17,
+					"eng": "generation",
+					"pl": "pokolenie"
+				},
+				{
+					"id": 18,
+					"eng": "grandchildren",
+					"pl": "wnuki"
+				},
+				{
+					"id": 19,
+					"eng": "grandfather",
+					"pl": "dziadek"
+				},
+				{
+					"id": 20,
+					"eng": "grandmother",
+					"pl": "babcia"
+				},
+				{
+					"id": 21,
+					"eng": "grandson",
+					"pl": "wnuk"
+				},
+				{
+					"id": 22,
+					"eng": "half-brother",
+					"pl": "brat przyrodni"
+				},
+				{
+					"id": 23,
+					"eng": "to live in separation",
+					"pl": "żyć w separacji"
+				}
+
+			]
+		},
+		{
+			"name": "Rutynowe Czynności",
+			"standard": true,
+			"transl": [{
+					"id": 0,
+					"eng": "to be in a hurry",
+					"pl": "spieszyć się"
+				},
+				{
+					"id": 1,
+					"eng": "to clean",
+					"pl": "czyścić"
+				},
+				{
+					"id": 2,
+					"eng": "to comb",
+					"pl": "czesać"
+				},
+				{
+					"id": 3,
+					"eng": "to cook dinner",
+					"pl": "gotować obiad"
+				},
+				{
+					"id": 4,
+					"eng": "to do exercises",
+					"pl": "gimnastykować się"
+				},
+				{
+					"id": 5,
+					"eng": "to drink",
+					"pl": "pić"
+				},
+				{
+					"id": 6,
+					"eng": "to dust",
+					"pl": "ścierać kurz"
+				},
+				{
+					"id": 7,
+					"eng": "to empty the bin",
+					"pl": "wyrzucić śmieci"
+				},
+				{
+					"id": 8,
+					"eng": "to fall asleep",
+					"pl": "zasypiać"
+				},
+				{
+					"id": 9,
+					"eng": "to fall into routine",
+					"pl": "wpaść w rutynę"
+				},
+				{
+					"id": 10,
+					"eng": "to get dressed",
+					"pl": "ubierać się"
+				},
+				{
+					"id": 11,
+					"eng": "to go jogging",
+					"pl": "iść pobiegać"
+				},
+				{
+					"id": 12,
+					"eng": "to gossip",
+					"pl": "plotkować"
+				},
+				{
+					"id": 13,
+					"eng": "to hoover",
+					"pl": "odkurzać"
+				},
+				{
+					"id": 14,
+					"eng": "to iron",
+					"pl": "prasować"
+				}
+			]
+		}
+	]
+}
