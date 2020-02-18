@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Fiszki-online/precache-manifest.58599f3ecac22537cf807ffa2f8f9965.js"
+  "/Fiszki-online/precache-manifest.13155f0cb7b42af45f1c77007b33a10a.js"
 );
 
 self.addEventListener('message', (event) => {

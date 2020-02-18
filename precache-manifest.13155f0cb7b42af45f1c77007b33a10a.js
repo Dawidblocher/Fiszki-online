@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1c9cea37edaf228c2f84b52de2714a8",
+    "revision": "8cb08e67706e105e11f4a9a54e7be8f1",
     "url": "/Fiszki-online/index.html"
   },
   {
