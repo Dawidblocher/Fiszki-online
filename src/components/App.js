@@ -66,7 +66,7 @@ class App extends Component {
       </div>
     ))
     return (
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="App">
         <header className="wrap-package">
           <Link to="/home" >Fiszki-Online</Link>
